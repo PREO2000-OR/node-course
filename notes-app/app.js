@@ -1,6 +1,7 @@
 const notes = require('./notes.js')
 const validator = require('validator')
 const chalk = require('chalk')
+
 const yargs = require('yargs')
 
 yargs.version('1.1.0')
